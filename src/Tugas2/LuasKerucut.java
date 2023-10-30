@@ -10,9 +10,9 @@ package Tugas2;
 
 public class LuasKerucut {
     /**     * Metode untuk menghitung luas permukaan kerucut
-     * @param jariJari Jari-jari kerucut
-     * @param garisPelukis Garis pelukis kerucut
-     * @return Luas permukaan kerucut     */
+     *@param garisPelukis Garis pelukis kerucut
+     * @ @param jariJari Jari-jari kerucut
+     *      * return Luas permukaan kerucut     */
     public double hitungLuasKerucut(double jariJari, double garisPelukis) {
         return Math.PI * jariJari * (jariJari + garisPelukis);
     }

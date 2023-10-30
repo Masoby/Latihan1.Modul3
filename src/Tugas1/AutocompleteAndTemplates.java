@@ -17,6 +17,8 @@ public class AutocompleteAndTemplates {
         public int kali(int angka1, int angka2) {
             return angka1 * angka2;
         }
+        public int kali(int angka1, int angka2) {
+                    return angka1 * angka2;
 
         public double bagi(double angka1, double angka2) {
             if (angka2 == 0) {
